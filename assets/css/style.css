@@ -2185,7 +2185,7 @@ side-panel-con ul {
   float: left;
   width: 100%;
   padding: 140px 0 120px 0;
-  background: #8d99ff;
+  background: white;
   overflow: hidden;
   position: relative;
 }
@@ -2386,20 +2386,20 @@ side-panel-con ul {
 .cpy-right-top {
   width: 100%;
   float: left;
-  background: #8d99ff;
+  background: #ffffff;
 }
 
 .cpy-right {
   float: left;
   width: 100%;
-  border-top: 1px solid #c5c6d1;
+  border-top: 1px solid #ffffff;
   padding: 40px 0 20px 0;
 }
 
 .cpy-right h3 {
   font-size: 14px;
   font-weight: 300;
-  color: #fff;
+  color: #000000;
 }
 
 .cpy-right .c-arrow {
@@ -2417,7 +2417,7 @@ side-panel-con ul {
   background: none;
   color: var(--primary);
   font-weight: 300;
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .cpy-right ul li:last-child {
@@ -2453,7 +2453,7 @@ side-panel-con ul {
   float: left;
   font-size: 13px;
   border: 1px solid #b9b9b9;
-  color: #fff;
+  color: #000000;
   width: 30px;
   height: 30px;
   border-radius: 50%;
@@ -2466,7 +2466,7 @@ side-panel-con ul {
 .footer-follow i:hover {
   background: #3c3ddc;
   transition: all 0.4s ease;
-  color: #fff;
+  color: #000000;
   border: 1px solid #3c3ddc;
 }
 
@@ -2477,7 +2477,7 @@ side-panel-con ul {
 
 .mb h5 {
   margin-bottom: 20px;
-  color: #fff;
+  color: #000000;
 }
 
 .showcase {
