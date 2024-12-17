@@ -39,7 +39,7 @@ body {
   line-height: 24px;
   margin: 0px;
   padding: 0px;
-  background: #f4f3f9 !important;
+  background: #000000 !important;
 }
 
 ol,
@@ -96,7 +96,7 @@ p {
 
 .banner {
   width: 100%;
-  padding: 130px 0 20px 0;
+  /* padding: 10px 0 0px 0; */
   float: left;
   position: relative;
   overflow: hidden;
@@ -112,7 +112,7 @@ p {
   bottom: 0;
   width: 40%;
   height: 100%;
-  background: url(../images/background/4.png);
+  /* background: url(../images/background/4.png); */
 }
 
 .ani-top {
