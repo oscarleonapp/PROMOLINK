@@ -517,8 +517,9 @@ p {
   padding-bottom: 100px;
   overflow: hidden;
   padding-top: 100px;
+  background-color: white;
 }
-.services-box::before,
+/* .services-box::before,
 .services-box::after {
   position: absolute;
   content: "";
@@ -530,7 +531,7 @@ p {
   clip-path: polygon(0 0, 111% 0, 92.5% 100%, 0% 0%);
   background: #dcdffd;
   border-radius: 50%;
-}
+} */
 .services-box::after {
   top: auto;
   bottom: 0;
