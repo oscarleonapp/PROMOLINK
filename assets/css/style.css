@@ -2452,7 +2452,7 @@ side-panel-con ul {
 .footer-follow i {
   float: left;
   font-size: 13px;
-  border: 1px solid #b9b9b9;
+  /* border: 1px solid #b9b9b9; */
   color: #000000;
   width: 30px;
   height: 30px;
@@ -2464,10 +2464,10 @@ side-panel-con ul {
 }
 
 .footer-follow i:hover {
-  background: #3c3ddc;
+  background: #fbd190;
   transition: all 0.4s ease;
   color: #000000;
-  border: 1px solid #3c3ddc;
+  border: 1px solid #fbd190;
 }
 
 .cpy {
