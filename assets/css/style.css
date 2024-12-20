@@ -546,13 +546,13 @@ p {
 .services-box-inner {
   float: left;
   padding: 0;
-  text-transform: capitalize;
   border-radius: 15px;
   overflow: hidden;
   z-index: 1;
   position: relative;
   text-align: center;
   padding: 15px;
+  width: 300px;
 }
 
 .services-box-inner::after {

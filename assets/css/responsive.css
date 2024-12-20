@@ -78,6 +78,15 @@
     }
   }
   
+  .bases-promo {
+    display: grid;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    align-content: center;
+    justify-content: space-around;
+}
   /*-------------------------------------------------------*/
   /* When the browser is 992 to all small screens,below css will be applied.
   /*-------------------------------------------------------*/
